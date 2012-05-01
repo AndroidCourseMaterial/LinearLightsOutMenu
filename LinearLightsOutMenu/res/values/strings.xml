@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MainMenu!</string>
+    <string name="app_name">Linear Light Out</string>
+    <string name="main_title">Linear Lights Out</string>
+    <string name="play_start">Play with 7 buttons</string>
+    <string name="play_format">Play with %1$d buttons</string>
+    <string name="change_num_buttons">Change number of buttons</string>
+    <string name="about">About Linear Lights Out</string>
+    <string name="about_ok_button">OK</string>
+    <string name="about_description">Clicking a button toggles the state of that button and any neighboring buttons.  The goal is to make all the buttons match.</string>
+    <string name="radio_label_3">3 Buttons</string>
+    <string name="radio_label_5">5 Buttons</string>
+    <string name="radio_label_7">7 Buttons</string>
+    <string name="radio_label_9">9 Buttons</string>
+    <string name="game_start">Make the buttons match</string>
+    <string name="game_one_move">1 move taken so far</string>
+    <string name="game_format">%1$d moves taken so far</string>
+    <string name="you_win">You Win!</string>
+    <string name="you_won_one_move">You won in 1 move!</string>
+    <string name="you_won_format">You won in %1$d moves!</string>
+    <string name="new_game">New Game</string>
+</resources>
