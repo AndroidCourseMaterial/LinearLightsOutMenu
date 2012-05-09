@@ -50,14 +50,6 @@ public class MenuActivity extends Activity {
                                 ChangeNumberOfButtonsActivity.REQUEST_CODE);
                     }
                 });
-
-        ((Button) findViewById(R.id.about_button)).setOnClickListener(new OnClickListener() {
-
-            @Override
-            public void onClick(View v) {
-                new AboutDialogFragment().show(getFragmentManager(), "about");
-            }
-        });
     }
 
     @Override
