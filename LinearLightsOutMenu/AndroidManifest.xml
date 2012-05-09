@@ -15,11 +15,5 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".ChangeNumberOfButtonsActivity"
-            android:label="@string/change_num_buttons" />
-        <activity
-            android:name=".LightsOutGameActivity"
-            android:label="@string/main_title" />
     </application>
 </manifest>
